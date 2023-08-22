@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Juan Morales</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
 - 🌱 I’m currently learning **courses**
 
