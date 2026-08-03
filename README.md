@@ -3,7 +3,7 @@
 **GitHub Username:** [JuanMorales10](https://github.com/JuanMorales10)  
 **Email:** [Juanmoralesp19@gmail.com](mailto:Juanmoralesp19@gmail.com)  
 **Website:** [Portfolio-dev-jm.netlify.app](https://portfolio-dev-jm.netlify.app)  
-**Location:** Barcelona  
+**Location:** Mendoza  
 
 ---
 
