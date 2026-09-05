@@ -1,42 +1,47 @@
-# 💼 Juan Cruz Morales Pacheco
+# Juan Morales
 
-**GitHub Username:** [JuanMorales10](https://github.com/JuanMorales10)  
-**Email:** [Juanmoralesp19@gmail.com](mailto:Juanmoralesp19@gmail.com)  
-**Website:** [Portfolio-dev-jm.netlify.app](https://portfolio-dev-jm.netlify.app)  
-**Location:** Mendoza  
+Cofundador y CEO de [Rienda](https://rienda.ar). Producto, desarrollo e inteligencia
+artificial aplicados a problemas reales de negocio. Mendoza, Argentina.
 
----
-
-## 👋 About Me
-
-Hello! I'm Juan Cruz Morales Pacheco, a 21-year-old from Argentina currently living in Barcelona. I'm passionate about software development, specializing in full-stack development with a focus on both frontend and backend.
+**[Portfolio y casos de estudio](https://juan-morales-portfolio.vercel.app)** ·
+[LinkedIn](https://www.linkedin.com/in/juan-morales1/) ·
+[juanmoralesp19@gmail.com](mailto:juanmoralesp19@gmail.com)
 
 ---
 
-## 🛠️ Favorite Technologies and Tools
+## Qué construyo
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Sistemas donde la operación de un negocio trabaja conectada: que el dato se cargue
+una sola vez y el resto se acomode solo. Escribo el código, elijo la arquitectura y
+me hago cargo de la seguridad y del despliegue.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+| Proyecto | Qué es |
+|---|---|
+| **[Rienda](https://rienda.ar)** | Plataforma integral para comercios argentinos: ventas, caja, stock, facturación electrónica con ARCA, canales online y reportes en una sola operación. Cofundador y CEO. |
+| **Llavero** | Gestión para inmobiliarias: administración de alquileres con ajuste por índice, cobranzas, liquidaciones, CRM y difusión en portales. |
+| **Mucho Peluquería** | Turnos por web, WhatsApp y mostrador sobre una sola agenda, con el anti doble reserva garantizado en la base de datos. |
+| **Portal Poltrona** | Herramienta interna de presupuestos y cobros para una tienda de muebles, con los datos cifrados en el navegador. |
+| **Ahorrito** | Finanzas personales para Argentina, con clasificación automática por IA. De su base salieron Rienda y Llavero. |
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+El código de los productos vive en repositorios privados. Cada uno tiene su caso de
+estudio, con las pantallas reales y las decisiones detrás, en el
+[portfolio](https://juan-morales-portfolio.vercel.app/proyectos).
 
----
+## Con qué trabajo
 
-## 📫 Contact
+**Producto** · estrategia, definición de problemas, diseño de experiencias, operación SaaS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile) 
+**Desarrollo** · Next.js · React · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Motion
 
+**Integraciones** · facturación electrónica con ARCA · WhatsApp · Mercado Pago · canales de venta online
 
+**Inteligencia artificial** · prompt engineering · RAG · fine-tuning · automatización de procesos
 
-Thank you for visiting my profile! I'm open to collaborating on exciting and interesting projects. Feel free to contact me.
+No uso inteligencia artificial para reemplazar criterio. La uso para acelerar
+investigación, diseño, desarrollo y operación.
 
+## Formación
+
+- **Digital House** · Full Stack Web Development · 2023
+- **Egg Cooperation** · Full-Stack Developer · 2021 a 2022 · calificación 91
+- **Fundación Esplai / Talent IT** · IA: bases, prompt engineering, RAG y fine-tuning · 150 horas · 2024
