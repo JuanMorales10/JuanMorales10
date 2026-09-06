@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Morales — producto, arquitectura y desarrollo</title>
+  <desc id="desc">Banner profesional de Juan Morales con un diagrama de operación conectada.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f110e"/>
+      <stop offset="1" stop-color="#171b17"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(925 180) rotate(90) scale(250)">
+      <stop offset="0" stop-color="#2a9a82" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#2a9a82" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#f2f3ee" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#glow)"/>
+  <path d="M0 26A26 26 0 0 1 26 0h1148a26 26 0 0 1 26 26" fill="none" stroke="#f2f3ee" stroke-opacity=".09"/>
+
+  <g transform="translate(64 56)">
+    <rect width="298" height="28" rx="14" fill="#2a9a82" fill-opacity=".12" stroke="#4fd1b3" stroke-opacity=".35"/>
+    <circle cx="17" cy="14" r="4" fill="#4fd1b3"/>
+    <text x="31" y="18" fill="#8fdbc9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5">PRODUCTO · ARQUITECTURA · CÓDIGO</text>
+
+    <text x="0" y="99" fill="#f2f3ee" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="50" font-weight="750" letter-spacing="-1.7">Juan Morales</text>
+    <text x="0" y="140" fill="#f2f3ee" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="520">Construyo software para operaciones reales.</text>
+    <text x="0" y="175" fill="#aeb4ad" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Del problema al producto. Del producto a producción.</text>
+
+    <g transform="translate(0 207)">
+      <rect width="229" height="34" rx="17" fill="#f2f3ee"/>
+      <text x="18" y="22" fill="#0f110e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing=".8">COFUNDADOR Y CEO · RIENDA</text>
+      <text x="252" y="22" fill="#aeb4ad" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">MENDOZA, ARGENTINA</text>
+    </g>
+  </g>
+
+  <line x1="666" y1="48" x2="666" y2="312" stroke="#f2f3ee" stroke-opacity=".1"/>
+
+  <g transform="translate(715 53)">
+    <text x="0" y="14" fill="#80877f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.8">UNA OPERACIÓN, UNA FUENTE DE VERDAD</text>
+
+    <g transform="translate(0 76)" filter="url(#shadow)">
+      <rect width="192" height="72" rx="16" fill="#f2f3ee"/>
+      <circle cx="28" cy="26" r="8" fill="#2a9a82"/>
+      <path d="M24 26h8M28 22v8" stroke="#f2f3ee" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="48" y="29" fill="#0f110e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">El dato entra una vez</text>
+      <text x="48" y="50" fill="#646a63" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">entrada única</text>
+    </g>
+
+    <path d="M192 112H225M225 42v170M225 42h28M225 76h28M225 110h28M225 144h28M225 178h28M225 212h28" fill="none" stroke="#4fd1b3" stroke-opacity=".72" stroke-width="1.5"/>
+    <circle cx="225" cy="112" r="4" fill="#4fd1b3"/>
+
+    <g transform="translate(253 28)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700">
+      <g><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#4fd1b3"/><text x="28" y="18" fill="#dfe3dd">VENTAS</text></g>
+      <g transform="translate(0 34)"><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#4fd1b3"/><text x="28" y="18" fill="#dfe3dd">CAJA</text></g>
+      <g transform="translate(0 68)"><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#4fd1b3"/><text x="28" y="18" fill="#dfe3dd">STOCK</text></g>
+      <g transform="translate(0 102)"><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#a97d3a"/><text x="28" y="18" fill="#dfe3dd">ARCA</text></g>
+      <g transform="translate(0 136)"><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#a97d3a"/><text x="28" y="18" fill="#dfe3dd">ONLINE</text></g>
+      <g transform="translate(0 170)"><rect width="143" height="28" rx="9" fill="#212721" stroke="#f2f3ee" stroke-opacity=".14"/><circle cx="16" cy="14" r="3" fill="#a97d3a"/><text x="28" y="18" fill="#dfe3dd">REPORTES</text></g>
+    </g>
+
+    <g transform="translate(0 239)">
+      <path d="M0 0h452" stroke="#f2f3ee" stroke-opacity=".1"/>
+      <text x="0" y="25" fill="#8fdbc9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">El resto se acomoda solo.</text>
+      <text x="452" y="25" text-anchor="end" fill="#80877f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">DISEÑAR · CONSTRUIR · OPERAR</text>
+    </g>
+  </g>
+</svg>
